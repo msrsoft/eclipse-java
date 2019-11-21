@@ -1,0 +1,4 @@
+db.driverClassName = oracle.jdbc.driver.OracleDriver
+db.Url= jdbc:oracle:thin:@localhost:1521:orcl
+db.Username= spring
+db.Password= spring
